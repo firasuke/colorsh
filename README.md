@@ -2,6 +2,11 @@
 A small, minimal and POSIX-compliant shell script that shows all supported
 colors by the DASH shell.
 
+## Usage
+```Shell
+./dash-colors.sh
+```
+
 ## Mirrors
 * [Bitbucket](https://bitbucket.org/firasuke/dash-colors)
 * [Framagit](https://framagit.org/firasuke/dash-colors)
