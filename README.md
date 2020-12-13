@@ -2,6 +2,9 @@
 A small, minimal and POSIX-compliant shell script that shows all supported
 colors by the DASH shell.
 
+<p align=center><img
+src=https://github.com/firasuke/dash-colors/raw/master/dash-colors.png</p>
+
 ## Usage
 ```Shell
 ./dash-colors.sh
