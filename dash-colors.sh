@@ -1,6 +1,6 @@
 #!/usr/bin/dash -e
 
-# Copyright (c) 2020-2022, Firas Khalil Khana
+# Copyright (c) 2020-2023, Firas Khalil Khana
 # Distributed under the terms of the ISC License
 
 for i in $(seq 30 37) $(seq 40 48); do
