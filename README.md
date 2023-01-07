@@ -12,6 +12,7 @@ src=https://github.com/firasuke/dash-colors/raw/master/dash-colors.png></p>
 
 ## Mirrors
 * [Bitbucket](https://bitbucket.org/firasuke/dash-colors)
+* [Codeberg](https://codeberg.org/firasuke/dash-colors)
 * [Framagit](https://framagit.org/firasuke/dash-colors)
 * [GitHub](https://github.com/firasuke/dash-colors)
 * [GitLab](https://gitlab.com/firasuke/dash-colors)
