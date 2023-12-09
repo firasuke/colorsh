@@ -10,10 +10,8 @@ colors by the DASH shell.
 ```
 
 ## Mirrors
-* [Bitbucket](https://bitbucket.org/firasuke/dash-colors)
 * [Codeberg](https://codeberg.org/firasuke/dash-colors)
 * [Framagit](https://framagit.org/firasuke/dash-colors)
 * [GitHub](https://github.com/firasuke/dash-colors)
 * [GitLab](https://gitlab.com/firasuke/dash-colors)
-* [NotABug](https://notabug.org/firasuke/dash-colors)
 * [SourceHut](https://git.sr.ht/~firasuke/dash-colors)
