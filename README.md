@@ -1,17 +1,16 @@
-# dash-colors
-A small, minimal and POSIX-compliant shell script that shows all supported
-colors by the DASH shell.
+# colorsh
+A small shell script that shows all supported terminal colors
 
-<p align=center><img src=dash-colors.png></p>
+<p align=center><img src=colorsh.png></p>
 
 ## Usage
 ```Shell
-./dash-colors.sh
+./colorsh
 ```
 
 ## Mirrors
-* [Codeberg](https://codeberg.org/firasuke/dash-colors)
-* [Framagit](https://framagit.org/firasuke/dash-colors)
-* [GitHub](https://github.com/firasuke/dash-colors)
-* [GitLab](https://gitlab.com/firasuke/dash-colors)
-* [SourceHut](https://git.sr.ht/~firasuke/dash-colors)
+* [Codeberg](https://codeberg.org/firasuke/colorsh)
+* [Framagit](https://framagit.org/firasuke/colorsh)
+* [GitHub](https://github.com/firasuke/colorsh)
+* [GitLab](https://gitlab.com/firasuke/colorsh)
+* [SourceHut](https://git.sr.ht/~firasuke/colorsh)
